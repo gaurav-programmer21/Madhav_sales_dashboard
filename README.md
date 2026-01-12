@@ -37,4 +37,6 @@ Profit Margin<br>
 Top Products<br>
 Top States<br>
 Customer Segmentation<br>
+
+📷 Dashboard Preview
 <img width="1417" height="794" alt="Madhav Sales" src="https://github.com/user-attachments/assets/0376b7ba-44c5-4ade-b046-c994a0581d29" />
